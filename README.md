@@ -4,3 +4,6 @@
   
   
   2. [#7DaysOfCode](https://7daysofcode.io/matricula/html-css) - 2/7 = A primeira parte do seu desafio hoje será criar no seu repositório os arquivos HTML e CSS, mas isso será feito diretamente a partir da própria página do repositório no GitHub, copiando e colando o código manualmente. A segunda parte do desafio será fazer o upload de uma pasta "images" para o repositório, contendo as 4 imagens. ✅
+
+  3. [#7DaysOfCode](https://7daysofcode.io/matricula/html-css) - 3/7 = O seu desafio de hoje será clonar o seu repositório criado no GitHub para editá-lo localmente, pela sua IDE.. ✅
+
