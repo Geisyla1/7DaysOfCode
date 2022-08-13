@@ -5,3 +5,24 @@
 body{
     background-color: antiquewhite;
 }
+h1{
+    text-align: center;
+    padding-bottom: 2em;
+    color: blueviolet;
+}
+h1:hover{
+    color: brown;
+    text-transform: uppercase;
+}
+div{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+figure:hover{
+    text-transform: uppercase;
+}
+img:hover{
+    text-transform: uppercase;
+}
