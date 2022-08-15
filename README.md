@@ -24,3 +24,13 @@
       Altere algo que vá quebrar o seu código (como o fechamento de uma ‘div’ ou de um ‘h2’) e faça o commit e o Push dessas alterações para a sua master. Pode tentar abrir o "index.html" para ver o erro.
 
       O seu desafio de hoje será reverter esse commit para remover o erro do seu código.
+
+  6. [#7DaysOfCode](https://7daysofcode.io/matricula/html-css) - 6/7 
+
+      Em uma equipe de trabalho, é muito comum (e esperado) mais de uma pessoa estar trabalhando no mesmo código ao mesmo tempo. Muitas vezes isso não influencia em muita coisa, mas em algumas situações isso pode resultar em conflitos no código.
+      
+      O seu desafio de hoje será resolver um conflito e fazer um commit do resultado do seu "merge". Dê preferência para realizar esse desafio usando os comandos diretamente no Terminal do Visual Studio Code.
+  
+   7. [#7DaysOfCode](https://7daysofcode.io/matricula/html-css) - 7/7  
+      
+      Você irá tornar a sua aplicação disponível de forma pública na internet. Pode ser através do Github Pages ou qualquer outro.
